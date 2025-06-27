@@ -1,3 +1,4 @@
+timestamp,metric,value
 2025-06-27T10:06:04.042464Z,nv_cpu_memory_total_bytes,6687541568.81
 2025-06-27T10:07:04.042464Z,nv_cpu_memory_total_bytes,9859324536.04
 2025-06-27T10:08:04.042464Z,nv_cpu_memory_total_bytes,8084765073.3
